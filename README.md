@@ -60,6 +60,8 @@ Artificial Intelligence and Machine Learning undergraduate with experience in Py
 
 ### 🤝 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/maria-roselind" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="maria-roselind" /></a>
-<a href="mailto:mariaroselind04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mariaroselind04@gmail.com" /></a>
+<a href="https://linkedin.com/in/maria-roselind" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/mariaroselind" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://www.hackerrank.com/mariaroselind041" target="blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+<a href="mailto:mariaroselind04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
