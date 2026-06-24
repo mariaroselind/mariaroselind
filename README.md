@@ -85,22 +85,6 @@ Artificial Intelligence and Machine Learning undergraduate with experience in Py
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariaroselind&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariaroselind&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaroselind&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/maria-roselind" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
