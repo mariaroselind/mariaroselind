@@ -70,7 +70,6 @@ Artificial Intelligence and Machine Learning undergraduate with experience in Py
 ## 🗄️ Databases & Cloud Hosting
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-336791?style=flat&logo=database&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
