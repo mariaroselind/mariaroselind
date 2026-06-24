@@ -32,16 +32,6 @@ Artificial Intelligence and Machine Learning undergraduate with experience in Py
 
 ---
 
-### 📁 Projects
-* **Real-Time Audio to Sign Language Video Generation** | [GitHub](https://github.com/mariaroselind)
-  * Developing a multimodal AI-based system that converts speech into expressive sign language videos using NLP, emotion detection, speech processing, and Blender animation techniques.
-* **Melo Chatbot** | [GitHub](https://github.com/mariaroselind)
-  * Developed an AI-powered chatbot to provide academic and event-related information for students using search-based response handling and web technologies.
-* **Movie Recommendation Website**
-  * Developed a SQL-based movie recommendation website that suggests movies based on user interests.
-
----
-
 ### 🛠️ Skills
 
 ## 👨‍💻 Programming Languages
