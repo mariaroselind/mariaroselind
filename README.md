@@ -101,14 +101,6 @@ Artificial Intelligence and Machine Learning undergraduate with experience in Py
 
 ---
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mariaroselind/mariaroselind/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/maria-roselind" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
